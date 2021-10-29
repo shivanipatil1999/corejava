@@ -1,6 +1,9 @@
 package arrays;
+/*
+ * Create a method which accepts an array of integer elements and return the second smallest element in the array.
+ */
 
-public class getSecondSmallest
+public class GetSecondSmallest
 {  
 public static int getSecondSmallest(int[] a, int total)
 {  

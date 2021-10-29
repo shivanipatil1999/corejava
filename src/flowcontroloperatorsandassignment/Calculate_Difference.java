@@ -1,4 +1,8 @@
 package flowcontroloperatorsandassignment;
+/*
+ * Create a class with a method to find the difference between the sum of the squares and the square of the sum of the first n natural numbers.
+ */
+
 
 import java.util.Scanner;
 
@@ -30,12 +34,7 @@ public class Calculate_Difference
 	{
 		Calculate_Difference df = new Calculate_Difference();
 		df.Diff();
-
-		// (1^2+2^2+3^2+ů.9^2+10^2)-
-		// (1+2+3+4+5ů+9+10)^2
-
-		// TODO Auto-generated method stub
-
 	}
+	
 
 }
