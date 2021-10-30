@@ -1,6 +1,6 @@
 package lambdaexpressionandstreamapi;
 /*
- * write a number expression which accepts X and Y numbers and return x raised y
+ * write a number expression which accepts X and Y numbers and return x ```````````````raised y
  */
 
 import java.util.Scanner;
